@@ -68,7 +68,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arya20072004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=arya20072004&theme=dracula&column=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=arya20072004&theme=dracula&column=4&v=2026" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -82,6 +82,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arya20072004&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya20072004&layout=compact&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arya20072004&show_icons=true&theme=dracula&v=2026" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya20072004&layout=compact&theme=dracula&v=2026" height="150" alt="languages graph"  />
 </div>

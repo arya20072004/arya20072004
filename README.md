@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/arya-borhade-a483bb2b2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="aryaborhade20@gmail.com" target="_blank">
+  <a href="mailto:aryaborhade20@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
@@ -68,7 +68,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arya20072004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/arya20072004/arya20072004/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=arya20072004&theme=dracula&column=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -82,8 +82,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arya20072004/arya20072004/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/arya20072004/arya20072004/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arya20072004&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya20072004&layout=compact&theme=dracula" height="150" alt="languages graph"  />
 </div>
-
-###

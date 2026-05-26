@@ -68,20 +68,18 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arya20072004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=arya20072004&theme=dracula&column=4&v=2026" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-metrics.vercel.app/arya20072004/plugin.achievements.svg?theme=dracula" height="150" alt="achievements metrics" />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arya20072004/arya20072004/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arya20072004/arya20072004/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arya20072004/arya20072004/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya20072004&theme=dracula&bg_color=1d1e2a&hide_border=true" width="100%" alt="activity graph" />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arya20072004&show_icons=true&theme=dracula&v=2026" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya20072004&layout=compact&theme=dracula&v=2026" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arya20072004&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arya20072004&layout=compact&theme=dracula" height="150" alt="languages graph"  />
 </div>
